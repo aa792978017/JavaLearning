@@ -1,0 +1,5 @@
+一些尚未解决的疑问
+1.volatile和cas的使用场景
+2.像ReentrantLock的实现,为什么非公平用了CAS更新volatile变量,而公平只用了volatile本身的内存语义,实现上有什么区别
+3.高并发下线程池的参数如何设置
+4.AQS原理
