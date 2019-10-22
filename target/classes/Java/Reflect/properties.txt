@@ -1,0 +1,4 @@
+className=Java.Cat
+age=1
+name=Tom
+method=eat
