@@ -1,0 +1,11 @@
+
+Java的Equals方法需要遵守的几个规则：
+1.自反性: x.equals(x)--true
+2.对称性: x.equals(y)--y.equals(x)
+3.传递性: x.equal(y) y.equasl(z)都为true， x.equals(z) 为true
+4.一致性: 多次调用，返回的值一样; ex: 多次x.equals(y)--返回一样的值
+5.对nul值 使用，返回false; ex: x.equals(null)--false
+
+
+Java方法的调用时根据声明类型来的，
+声明是什么类型，就去该类型的类数据里面找相应的方法

@@ -19,7 +19,7 @@ public class Test1 {
 
     }
     /**
-     * jvm 如何识别是否要加锁，
+     * Java.jvm 如何识别是否要加锁，
      * 如果使用synchronized关键字
      *
      * 字节码锁前会加monitorenter
