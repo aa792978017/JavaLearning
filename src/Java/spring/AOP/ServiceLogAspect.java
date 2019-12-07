@@ -1,7 +1,7 @@
-package Java.zhujie.AOP;
+package Java.spring.AOP;
 
-import Java.zhujie.ServiceA;
-import Java.zhujie.ServiceB;
+import Java.spring.ServiceA;
+import Java.spring.ServiceB;
 
 import java.lang.reflect.Method;
 import java.util.Arrays;

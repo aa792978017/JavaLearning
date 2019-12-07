@@ -1,11 +1,14 @@
-package Java.zhujie.DI.DI1;
+package Java.spring.DI.DI2;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Target;
 
-@Target({ElementType.TYPE,ElementType.FIELD})
+/**
+ * 单例注解
+ */
 @Retention(RetentionPolicy.RUNTIME)
-public @interface SimpleInject {
+@Target({ElementType.TYPE,ElementType.FIELD})
+public @interface SimpleSingleton {
 }

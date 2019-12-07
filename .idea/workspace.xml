@@ -2,207 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95688527-a4ad-4b2e-b283-623c39b1baf1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Algorithm/tree/binarytree/TreePos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Diary/2019/12.05.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java/socket/client/ChatClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java/socket/client/ConnectSimple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java/socket/client/DaytimeObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java/socket/client/DaytimeText.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java/socket/client/EchoClientOneLine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java/socket/client/InetAddressDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java/socket/client/LinkStatusCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java/socket/client/RestClientFreeGeoIp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java/socket/client/URIDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_5_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_6_0_M1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_5_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_6_0_M1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_5_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_6_0_M1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_5_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_6_0_M1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_5_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_6_0_M1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_5_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_6_0_M1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Diary/2019/12.06.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaLearning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaLearning.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithm/offer/Main24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithm/offer/Main24.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithm/sort/HeapSortTest/MyHeap1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithm/sort/HeapSortTest/MyHeap1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JUC/ConnectionPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/JUC/ConnectionPool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JUC/Question.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/JUC/Question.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JUnitTest/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/JUnitTest/TestClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JUnitTest/TestJUnit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/JUnitTest/TestJUnit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java/Java8Test/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/Java8Test/Test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NIO/NIOClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/NIO/NIOClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NIO/NIOServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/NIO/NIOServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ParallelPattern/Future/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/ParallelPattern/Future/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ParallelPattern/Future/Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/ParallelPattern/Future/Data.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ParallelPattern/Future/FutureData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/ParallelPattern/Future/FutureData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ParallelPattern/Future/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/ParallelPattern/Future/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ParallelPattern/Future/RealData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/ParallelPattern/Future/RealData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ParallelPattern/Future/jdkFuture/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/ParallelPattern/Future/jdkFuture/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ParallelPattern/Future/jdkFuture/RealData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/ParallelPattern/Future/jdkFuture/RealData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ParallelPattern/ProductAndCustome/Producter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/ParallelPattern/ProductAndCustome/Producter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jvm/TestStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/jvm/TestStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jvm/classloader/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/jvm/classloader/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jvm/classloader/HotDeployDemo/HelloServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/jvm/classloader/HotDeployDemo/HelloServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jvm/classloader/HotDeployDemo/HotDeployDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/jvm/classloader/HotDeployDemo/HotDeployDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jvm/classloader/HotDeployDemo/IHelloService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/jvm/classloader/HotDeployDemo/IHelloService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jvm/classloader/HotDeployDemo/MyClassLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/jvm/classloader/HotDeployDemo/MyClassLoader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jvm/classloader/MyClassLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/jvm/classloader/MyClassLoader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jvm/classloader/Sample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/jvm/classloader/Sample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jvm/classloader/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/jvm/classloader/Test2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jvm/classloader/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/jvm/classloader/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jvm/common/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/jvm/common/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jvm/common/Father.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/jvm/common/Father.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jvm/common/Son.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/jvm/common/Son.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jvm/gc/StopWorldTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/jvm/gc/StopWorldTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jvm/jvmtest/JavaVMStackOOM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/jvm/jvmtest/JavaVMStackOOM.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jvm/jvmtest/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/jvm/jvmtest/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/writtenexaminatio/duxiaoman/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/writtenexaminatio/duxiaoman/Main1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/writtenexaminatio/duxiaoman/Main2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/writtenexaminatio/meituan/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/writtenexaminatio/meituan/Main1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/writtenexaminatio/t360/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/writtenexaminatio/t360/Main2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/writtenexaminatio/wanmeishijie/Main1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/writtenexaminatio/wanmeishijie/Main2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/writtenexaminatio/zhaoshang/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/writtenexaminatio/zhaoshang/Main2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/writtenexaminatio/zhaoshang/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Algorithm/algorithm/dynaticplan/ActivitySelect.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Algorithm/algorithm/dynaticplan/ActivitySelect.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Algorithm/algorithm/dynaticplan/Bag.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Algorithm/algorithm/dynaticplan/Bag.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Algorithm/algorithm/dynaticplan/Ics.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Algorithm/algorithm/dynaticplan/Ics.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Algorithm/offer/Main24.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Algorithm/offer/Main24.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Algorithm/sort/HeapSortTest/MyHeap1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Algorithm/sort/HeapSortTest/MyHeap1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Algorithm/sort/MergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Algorithm/sort/MergeSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Algorithm/sort/RandomizeSelect.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Algorithm/sort/RandomizeSelect.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Algorithm/sort/Sort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Algorithm/sort/Sort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DesignerPattern/AbstractFactoryPattern/FrontDesk.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DesignerPattern/AbstractFactoryPattern/FrontDesk.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DesignerPattern/AdapterPattern/UserInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DesignerPattern/AdapterPattern/UserInfo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DesignerPattern/BridgePattern/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DesignerPattern/BridgePattern/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DesignerPattern/BridgePattern/House.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DesignerPattern/BridgePattern/House.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DesignerPattern/BridgePattern/HouseCorp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DesignerPattern/BridgePattern/HouseCorp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DesignerPattern/BridgePattern/IPod.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DesignerPattern/BridgePattern/IPod.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DesignerPattern/BridgePattern/ShangZhaiCorp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DesignerPattern/BridgePattern/ShangZhaiCorp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DesignerPattern/BuilderPattern/BMWModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DesignerPattern/BuilderPattern/BMWModel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DesignerPattern/BuilderPattern/BenzModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DesignerPattern/BuilderPattern/BenzModel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DesignerPattern/CommandPattern/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DesignerPattern/CommandPattern/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DesignerPattern/CommandPattern/CodeGroup.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DesignerPattern/CommandPattern/CodeGroup.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DesignerPattern/CommandPattern/Group.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DesignerPattern/CommandPattern/Group.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DesignerPattern/CommandPattern/PageGroup.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DesignerPattern/CommandPattern/PageGroup.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DesignerPattern/CommandPattern/RequirementGroup.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DesignerPattern/CommandPattern/RequirementGroup.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DesignerPattern/CompositePattern/Corp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DesignerPattern/CompositePattern/Corp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DesignerPattern/DecoratorPattern/ConcreateDecoratorA.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DesignerPattern/DecoratorPattern/ConcreateDecoratorA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DesignerPattern/DecoratorPattern/ConcreateDecoratorB.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DesignerPattern/DecoratorPattern/ConcreateDecoratorB.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DesignerPattern/FacadePattern/LetterProcessImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DesignerPattern/FacadePattern/LetterProcessImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DesignerPattern/FacadePattern/Police.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DesignerPattern/FacadePattern/Police.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DesignerPattern/FacadePattern/client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DesignerPattern/FacadePattern/client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DesignerPattern/FactoryFunctionPattern/DesignerBook/BlackHuman.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DesignerPattern/FactoryFunctionPattern/DesignerBook/BlackHuman.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DesignerPattern/FactoryFunctionPattern/DesignerBook/WhiteHuman.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DesignerPattern/FactoryFunctionPattern/DesignerBook/WhiteHuman.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DesignerPattern/FactoryFunctionPattern/DesignerBook/YellowHuman.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DesignerPattern/FactoryFunctionPattern/DesignerBook/YellowHuman.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DesignerPattern/FactoryFunctionPattern/DesignerBook/model1/HumanFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DesignerPattern/FactoryFunctionPattern/DesignerBook/model1/HumanFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DesignerPattern/FactoryFunctionPattern/DesignerBook/model2/HumanFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DesignerPattern/FactoryFunctionPattern/DesignerBook/model2/HumanFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DesignerPattern/FactoryFunctionPattern/DesignerBook/model4/Singleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DesignerPattern/FactoryFunctionPattern/DesignerBook/model4/Singleton.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DesignerPattern/FactoryFunctionPattern/DesignerBook/model4/SingletonFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DesignerPattern/FactoryFunctionPattern/DesignerBook/model4/SingletonFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DesignerPattern/FactoryFunctionPattern/DesignerBook/model5/HumanFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DesignerPattern/FactoryFunctionPattern/DesignerBook/model5/HumanFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DesignerPattern/FlyweightPattern/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DesignerPattern/FlyweightPattern/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DesignerPattern/FlyweightPattern/SignInfoFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DesignerPattern/FlyweightPattern/SignInfoFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DesignerPattern/HandleChainPattern/ChainOfResponsibilityPattern/CEO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DesignerPattern/HandleChainPattern/ChainOfResponsibilityPattern/CEO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DesignerPattern/HandleChainPattern/ChainOfResponsibilityPattern/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DesignerPattern/HandleChainPattern/ChainOfResponsibilityPattern/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DesignerPattern/HandleChainPattern/ChainOfResponsibilityPattern/Manager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DesignerPattern/HandleChainPattern/ChainOfResponsibilityPattern/Manager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DesignerPattern/HandleChainPattern/ChainOfResponsibilityPattern/Staff.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DesignerPattern/HandleChainPattern/ChainOfResponsibilityPattern/Staff.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DesignerPattern/HandleChainPattern/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DesignerPattern/HandleChainPattern/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DesignerPattern/HandleChainPattern/Father.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DesignerPattern/HandleChainPattern/Father.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DesignerPattern/HandleChainPattern/Handler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DesignerPattern/HandleChainPattern/Handler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DesignerPattern/HandleChainPattern/Husband.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DesignerPattern/HandleChainPattern/Husband.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DesignerPattern/HandleChainPattern/Son.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DesignerPattern/HandleChainPattern/Son.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DesignerPattern/HandleChainPattern/Women.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DesignerPattern/HandleChainPattern/Women.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DesignerPattern/IteratorPattern/Project.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DesignerPattern/IteratorPattern/Project.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DesignerPattern/MediatorPattern/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DesignerPattern/MediatorPattern/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DesignerPattern/MediatorPattern/Mediator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DesignerPattern/MediatorPattern/Mediator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DesignerPattern/MediatorPattern/Purchase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DesignerPattern/MediatorPattern/Purchase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DesignerPattern/MediatorPattern/Sale.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DesignerPattern/MediatorPattern/Sale.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DesignerPattern/MediatorPattern/Stock.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DesignerPattern/MediatorPattern/Stock.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DesignerPattern/MementoPattern/Boy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DesignerPattern/MementoPattern/Boy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DesignerPattern/MementoPattern/client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DesignerPattern/MementoPattern/client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DesignerPattern/ModelPattern/ConcreteHummerModel1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DesignerPattern/ModelPattern/ConcreteHummerModel1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DesignerPattern/ModelPattern/ConcreteHummerModel2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DesignerPattern/ModelPattern/ConcreteHummerModel2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DesignerPattern/ObserverPattern/HanFeiZi.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DesignerPattern/ObserverPattern/HanFeiZi.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DesignerPattern/ObserverPattern/LiSi.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DesignerPattern/ObserverPattern/LiSi.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DesignerPattern/ObserverPattern/WangSi.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DesignerPattern/ObserverPattern/WangSi.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DesignerPattern/PrototypePattern/EnemyPlane.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DesignerPattern/PrototypePattern/EnemyPlane.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DesignerPattern/StatePattern/ClosingState.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DesignerPattern/StatePattern/ClosingState.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DesignerPattern/StatePattern/OpeningState.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DesignerPattern/StatePattern/OpeningState.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DesignerPattern/StatePattern/RunningState.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DesignerPattern/StatePattern/RunningState.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DesignerPattern/StatePattern/StoppingState.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DesignerPattern/StatePattern/StoppingState.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DesignerPattern/VisitorPattern/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DesignerPattern/VisitorPattern/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DesignerPattern/VisitorPattern/Visitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DesignerPattern/VisitorPattern/Visitor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DesignerPattern/VisitorPattern/extend1/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DesignerPattern/VisitorPattern/extend1/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DesignerPattern/VisitorPattern/extend2/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DesignerPattern/VisitorPattern/extend2/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DesignerPattern/VisitorPattern/extend2/ShowVisitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DesignerPattern/VisitorPattern/extend2/ShowVisitor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DesignerPattern/VisitorPattern/extend2/TotalVisitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DesignerPattern/VisitorPattern/extend2/TotalVisitor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DesignerPattern/VisitorPattern/extend3/AbsActor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DesignerPattern/VisitorPattern/extend3/AbsActor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DesignerPattern/VisitorPattern/extend3/OldActor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DesignerPattern/VisitorPattern/extend3/OldActor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DesignerPattern/VisitorPattern/extend3/YoungActor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DesignerPattern/VisitorPattern/extend3/YoungActor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JUC/ConnectionPool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JUC/Question.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JUnitTest/TestClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JUnitTest/TestJUnit$NestTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JUnitTest/TestJUnit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java/Reflect/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java/Reflect/Cat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java/Reflect/ReflectTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java/Reflect/ReflectTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java/Threads/Volatile.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java/Threads/Volatile.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java/enumTest/Size.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java/enumTest/Size.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java/enumTest/Test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java/enumTest/Test1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java/util/hashMap/HashMap$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java/util/hashMap/HashMap$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java/util/hashMap/HashMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java/util/hashMap/HashMap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java/util/hashMap/HashMap.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java/util/hashMap/HashMap.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/NIO/NIOClient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/NIO/NIOServer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ParallelPattern/Future/Client$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ParallelPattern/Future/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ParallelPattern/Future/Data.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ParallelPattern/Future/FutureData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ParallelPattern/Future/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ParallelPattern/Future/RealData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ParallelPattern/Future/jdkFuture/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ParallelPattern/Future/jdkFuture/RealData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ParallelPattern/ProductAndCustome/Producter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jvm/TestStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jvm/classloader/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jvm/classloader/FinalTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jvm/classloader/HotDeployDemo/HelloServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jvm/classloader/HotDeployDemo/HotDeployDemo$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jvm/classloader/HotDeployDemo/HotDeployDemo$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jvm/classloader/HotDeployDemo/HotDeployDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jvm/classloader/HotDeployDemo/IHelloService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jvm/classloader/HotDeployDemo/MyClassLoader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jvm/classloader/MyClassLoader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jvm/classloader/Sample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jvm/classloader/Test2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jvm/classloader/test$Test1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jvm/classloader/test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jvm/common/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jvm/common/Father.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jvm/common/Son.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jvm/gc/StopWorldTest$MyThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jvm/gc/StopWorldTest$PrintThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jvm/gc/StopWorldTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jvm/jvmtest/JavaVMStackOOM$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jvm/jvmtest/JavaVMStackOOM.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jvm/jvmtest/test$HeapOOm.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jvm/jvmtest/test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/writtenexaminatio/duxiaoman/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/writtenexaminatio/duxiaoman/Main1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/writtenexaminatio/duxiaoman/Main2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/writtenexaminatio/meituan/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/writtenexaminatio/meituan/Main1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/writtenexaminatio/t360/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/writtenexaminatio/t360/Main2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/writtenexaminatio/wanmeishijie/Main2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/writtenexaminatio/zhaoshang/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/writtenexaminatio/zhaoshang/Main2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/writtenexaminatio/zhaoshang/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java/zhujie/AOP/Aspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/spring/AOP/Aspect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java/zhujie/AOP/CGLibContainer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/spring/AOP/CGLibContainer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java/zhujie/AOP/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/spring/AOP/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java/zhujie/AOP/ExceptionAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/spring/AOP/ExceptionAspect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java/zhujie/AOP/InterceptPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/spring/AOP/InterceptPoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java/zhujie/AOP/ServiceLogAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/spring/AOP/ServiceLogAspect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java/zhujie/DI/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/spring/DI/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java/zhujie/DI/DI1/SimpleContainer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/spring/DI/DI1/SimpleContainer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java/zhujie/DI/DI1/SimpleInject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/spring/DI/DI1/SimpleInject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java/zhujie/DI/DI2/SimpleSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/spring/DI/DI2/SimpleSingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java/zhujie/DI/DI2/SimpleSingletonContainer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/spring/DI/DI2/SimpleSingletonContainer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java/zhujie/InheritDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/zhujie/InheritDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java/zhujie/ServiceA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/spring/ServiceA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java/zhujie/ServiceB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/spring/ServiceB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java/zhujie/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/spring/readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Java/socket/client/ChatClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java/socket/client/ChatClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Java/zhujie/AOP/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java/zhujie/AOP/Client.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -252,6 +70,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\github repository\JavaLearning\src\Java\spring" />
       <recent name="D:\github repository\JavaLearning\src\Java\JUC" />
       <recent name="D:\github repository\branch_wangchang\JavaLearning\src\Java\util\hashMap" />
       <recent name="D:\github repository\branch_wangchang\JavaLearning\src\Diary\2019" />
@@ -272,13 +91,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LinkStatusCheck">
-    <configuration name="DaytimeObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java.socket.client.DaytimeObject" />
+  <component name="RunManager" selected="Application.Client">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java.spring.AOP.Client" />
       <module name="JavaLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java.socket.client.*" />
+          <option name="PATTERN" value="Java.spring.AOP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -286,8 +105,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DaytimeText" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java.socket.client.DaytimeText" />
+    <configuration name="DaytimeObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java.socket.client.DaytimeObject" />
       <module name="JavaLearning" />
       <extension name="coverage">
         <pattern>
@@ -340,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Client" />
         <item itemvalue="Application.LinkStatusCheck" />
         <item itemvalue="Application.RestClientFreeGeoIp" />
         <item itemvalue="Application.URIDemo" />
         <item itemvalue="Application.DaytimeObject" />
-        <item itemvalue="Application.DaytimeText" />
       </list>
     </recent_temporary>
   </component>
@@ -362,7 +181,7 @@
       <workItem from="1571225310809" duration="6275000" />
       <workItem from="1571361415693" duration="9434000" />
       <workItem from="1571498609000" duration="19595000" />
-      <workItem from="1575273022247" duration="17693000" />
+      <workItem from="1575273022247" duration="21809000" />
     </task>
     <servers />
   </component>

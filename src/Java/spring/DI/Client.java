@@ -1,8 +1,8 @@
-package Java.zhujie.DI;
+package Java.spring.DI;
 
-import Java.zhujie.DI.DI1.SimpleContainer;
-import Java.zhujie.DI.DI2.SimpleSingletonContainer;
-import Java.zhujie.ServiceA;
+import Java.spring.DI.DI1.SimpleContainer;
+import Java.spring.DI.DI2.SimpleSingletonContainer;
+import Java.spring.ServiceA;
 
 public class Client {
     public static void main(String[] args) {

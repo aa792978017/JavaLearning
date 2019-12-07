@@ -1,4 +1,4 @@
-package Java.zhujie.AOP;
+package Java.spring.AOP;
 
 
 public enum  InterceptPoint {

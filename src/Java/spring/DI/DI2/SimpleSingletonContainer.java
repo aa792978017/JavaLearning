@@ -1,6 +1,6 @@
-package Java.zhujie.DI.DI2;
+package Java.spring.DI.DI2;
 
-import Java.zhujie.DI.DI1.SimpleInject;
+import Java.spring.DI.DI1.SimpleInject;
 
 import java.lang.reflect.Field;
 import java.util.Map;

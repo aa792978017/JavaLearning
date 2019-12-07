@@ -1,6 +1,6 @@
-package Java.zhujie.AOP;
+package Java.spring.AOP;
 
-import Java.zhujie.DI.DI1.SimpleInject;
+import Java.spring.DI.DI1.SimpleInject;
 
 
 import java.lang.reflect.Field;
@@ -16,7 +16,7 @@ public class CGLibContainer {
     //标识每个类的每个且点的方法列表
     private static Map<Class<?>, Map<InterceptPoint, List<Method>>> interceptMethodMap = new HashMap<>();
 
-    //这是扫描的类，手动添加在这里
+    //这是扫描的类，手动添加在这里,希望自动化可以做一个自动扫描包功能
     static Class<?>[] aspects = new Class<?>[]{
             ServiceLogAspect.class, ExceptionAspect.class
     };
@@ -84,6 +84,14 @@ public class CGLibContainer {
         methods.add(method);
     }
 
+    /**
+     * 通过Cglib的Enhancer接口实例化代理类（该代理类会在方法前后执行额外方法）
+     * @param cls 需要获取代理类的类型
+     * @param <T>
+     * @return
+     * @throws IllegalAccessException
+     * @throws InstantiationException
+     */
     private static <T> T createInstance(Class<T> cls) throws IllegalAccessException, InstantiationException {
         //如果cls不需要增强，则直接通过反射获取实例
         if (!interceptMethodMap.containsKey(cls)){
@@ -96,6 +104,14 @@ public class CGLibContainer {
         enhancer.setCallback(new AspectInterceptor());
         return (T) enhancer.create();
     }
+
+    /**
+     * 通过方法名和参数获取方法对象
+     * @param cls 需要解析的切面
+     * @param name 需要获取到的方法名
+     * @param paramTypes 想获取方法的参数类型数组
+     * @return 返回希望获取的方法
+     */
     private static Method getMethod(Class<?> cls, String name, Class<?>[] paramTypes) {
         try {
             return cls.getMethod(name, paramTypes);
@@ -152,12 +168,18 @@ public class CGLibContainer {
         }
     }
 
-
+    /**
+     * 获取实例
+     * @param cls
+     * @param <T>
+     * @return
+     */
     public static <T> T getInstance(Class<T> cls){
         try{
             T obj = createInstance(cls);
             Field[] fields =  cls.getDeclaredFields();
             for (Field field : fields){
+                // 这里还能传入注解，看看哪些注解需要识别（可以把注解类型预先存进一个Set，然后判断）
                 if (field.isAnnotationPresent(SimpleInject.class)){
                     if (!field.isAccessible()){
                         field.setAccessible(true);

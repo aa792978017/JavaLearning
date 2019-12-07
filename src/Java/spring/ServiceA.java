@@ -1,8 +1,8 @@
-package Java.zhujie;
+package Java.spring;
 
 
-import Java.zhujie.DI.DI1.SimpleInject;
-import Java.zhujie.DI.DI2.SimpleSingleton;
+import Java.spring.DI.DI1.SimpleInject;
+import Java.spring.DI.DI2.SimpleSingleton;
 
 public class ServiceA {
 

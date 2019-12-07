@@ -1,4 +1,4 @@
-package Java.zhujie;
+package Java.spring;
 
 public class ServiceB {
     public void action(){
