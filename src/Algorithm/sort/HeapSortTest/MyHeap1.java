@@ -1,7 +1,5 @@
 package Algorithm.sort.HeapSortTest;
 
-import jvm.gc.StopWorldTest;
-
 import java.util.ArrayList;
 
 public class MyHeap1<E extends Comparable<E>> {

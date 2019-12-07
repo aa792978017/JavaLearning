@@ -1,10 +1,5 @@
 package Java.zhujie;
-
-import DesignerPattern.AbstractFactoryPattern.BaoMaD1;
-
 import java.lang.annotation.*;
-import java.lang.reflect.Method;
-
 public class InheritDemo {
 
 
