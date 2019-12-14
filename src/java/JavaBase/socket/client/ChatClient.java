@@ -2,9 +2,9 @@
  * Copyright 2019-2022 the original author or authors.
  */
 
-package java.JavaBase.socket.client;
+package JavaBase.socket.client;
 
-import java.JavaBase.socket.ChatProtocol;
+import JavaBase.socket.ChatProtocol;
 import java.awt.BorderLayout;
 import java.awt.Button;
 import java.awt.Font;

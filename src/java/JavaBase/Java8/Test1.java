@@ -10,9 +10,6 @@ public class Test1 {
         String[] strings = {"xx", "yy", "zz", "xx"};
         Arrays.asList(strings).stream().forEach(x -> System.out.println(x));
         Arrays.asList(strings).stream().forEach(System.out::println);
-//        strings.hashCode()Copy
-//        ConcurrentHashMap
-//        CopyOnWriteArrayList
 
     }
     /**

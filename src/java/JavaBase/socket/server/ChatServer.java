@@ -2,9 +2,9 @@
  * Copyright 2019-2022 the original author or authors.
  */
 
-package java.JavaBase.socket.server;
+package JavaBase.socket.server;
 
-import java.JavaBase.socket.ChatProtocol;
+import JavaBase.socket.ChatProtocol;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
