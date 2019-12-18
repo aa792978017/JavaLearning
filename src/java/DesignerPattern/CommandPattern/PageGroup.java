@@ -1,4 +1,4 @@
-package java.DesignerPattern.CommandPattern;
+package DesignerPattern.CommandPattern;
 
 //美工组
 public class PageGroup extends Group {

@@ -1,4 +1,4 @@
-package java.DesignerPattern.CommandPattern;
+package DesignerPattern.CommandPattern;
 
 public class Client {
     public static void main(String[] args) {

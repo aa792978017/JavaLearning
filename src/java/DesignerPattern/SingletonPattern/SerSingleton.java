@@ -1,4 +1,4 @@
-package java.DesignerPattern.SingletonPattern;
+package DesignerPattern.SingletonPattern;
 
 import java.io.Serializable;
 

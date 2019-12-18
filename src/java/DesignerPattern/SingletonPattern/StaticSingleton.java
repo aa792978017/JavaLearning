@@ -1,4 +1,4 @@
-package java.DesignerPattern.SingletonPattern;
+package DesignerPattern.SingletonPattern;
 
 /**
  * 内部类单例

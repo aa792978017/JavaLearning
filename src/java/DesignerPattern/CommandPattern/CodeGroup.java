@@ -1,4 +1,4 @@
-package java.DesignerPattern.CommandPattern;
+package DesignerPattern.CommandPattern;
 
 //代码组
 public class CodeGroup extends Group {

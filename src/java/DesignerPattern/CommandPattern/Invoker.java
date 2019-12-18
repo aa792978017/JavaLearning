@@ -1,4 +1,4 @@
-package java.DesignerPattern.CommandPattern;
+package DesignerPattern.CommandPattern;
 
 //负责人
 public class Invoker {

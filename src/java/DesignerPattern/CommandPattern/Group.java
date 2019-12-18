@@ -1,4 +1,4 @@
-package java.DesignerPattern.CommandPattern;
+package DesignerPattern.CommandPattern;
 
 //抽象组
 public abstract class Group {

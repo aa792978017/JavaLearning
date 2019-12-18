@@ -1,4 +1,4 @@
-package java.DesignerPattern.CommandPattern;
+package DesignerPattern.CommandPattern;
 //具体的命令类
 public class AddRequirementCommand extends Command {
     @Override

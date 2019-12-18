@@ -1,4 +1,4 @@
-package java.DesignerPattern.SingletonPattern;
+package DesignerPattern.SingletonPattern;
 
 /**
  * 双重检查的单例模式

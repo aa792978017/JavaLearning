@@ -1,4 +1,4 @@
-package java.DesignerPattern.CommandPattern;
+package DesignerPattern.CommandPattern;
 //抽象命令类
 public abstract class Command {
     //定义好，子类可以直接使用
