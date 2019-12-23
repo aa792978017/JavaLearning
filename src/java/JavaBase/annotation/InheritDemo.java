@@ -1,4 +1,5 @@
-package java.JavaBase.zhujie;
+package JavaBase.annotation;
+
 import java.lang.annotation.*;
 public class InheritDemo {
 
