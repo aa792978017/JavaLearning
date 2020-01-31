@@ -31,7 +31,7 @@
     <druid.version>1.0.5</druid.version>
     <jedis.version>2.9.0</jedis.version>
     <fastjson.version>1.2.38</fastjson.version>
-    <checkstyle.vesion>6.12</checkstyle.vesion>
+    <checkstyle.vesion>8.29</checkstyle.vesion>
     <commons.codec.version>1.10</commons.codec.version>
     <commons.lang3.version>3.6</commons.lang3.version>
     <cobetura.version>2.7</cobetura.version>
