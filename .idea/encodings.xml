@@ -2,6 +2,7 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/Algorithm/tree/binarytree/TreePos.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/java/Algorithm/tree/binarytree/TreePos.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/java/JavaBase/system/SystemTest.java" charset="GBK" />
   </component>
 </project>

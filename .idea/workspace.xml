@@ -2,25 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95688527-a4ad-4b2e-b283-623c39b1baf1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Diary/2019/12.06.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Diary/2019/12.24.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Diary/2020/1.10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Diary/2020/1.11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Diary/2020/1.12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Diary/2020/1.13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Diary/2020/1.14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Diary/2020/1.17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Diary/2020/1.19.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java/zhujie/AOP/Aspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/spring/AOP/Aspect.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java/zhujie/AOP/CGLibContainer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/spring/AOP/CGLibContainer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java/zhujie/AOP/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/spring/AOP/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java/zhujie/AOP/ExceptionAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/spring/AOP/ExceptionAspect.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java/zhujie/AOP/InterceptPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/spring/AOP/InterceptPoint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java/zhujie/AOP/ServiceLogAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/spring/AOP/ServiceLogAspect.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java/zhujie/DI/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/spring/DI/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java/zhujie/DI/DI1/SimpleContainer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/spring/DI/DI1/SimpleContainer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java/zhujie/DI/DI1/SimpleInject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/spring/DI/DI1/SimpleInject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java/zhujie/DI/DI2/SimpleSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/spring/DI/DI2/SimpleSingleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java/zhujie/DI/DI2/SimpleSingletonContainer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/spring/DI/DI2/SimpleSingletonContainer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java/zhujie/InheritDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/zhujie/InheritDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java/zhujie/ServiceA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/spring/ServiceA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java/zhujie/ServiceB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/spring/ServiceB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java/zhujie/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/spring/readme.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java/socket/client/ChatClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java/socket/client/ChatClient.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java/zhujie/AOP/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java/zhujie/AOP/Client.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,20 +53,29 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569340486571" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Winter-framework" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\github repository\JavaLearning\src\java\JavaBase\xml\demo1" />
+      <recent name="D:\github repository\JavaLearning\src\java\JavaBase\jar" />
+      <recent name="D:\github repository\JavaLearning\src\java" />
+      <recent name="D:\github repository\JavaLearning\src\java\JavaBase" />
       <recent name="D:\github repository\JavaLearning\src\Java\spring" />
-      <recent name="D:\github repository\JavaLearning\src\Java\JUC" />
-      <recent name="D:\github repository\branch_wangchang\JavaLearning\src\Java\util\hashMap" />
-      <recent name="D:\github repository\branch_wangchang\JavaLearning\src\Diary\2019" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="JavaBase.Java8" />
+      <recent name="JavaBase.jar" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\github repository\JavaLearning\src\java\JavaBase\jar" />
+      <recent name="D:\github repository\JavaLearning" />
+      <recent name="D:\github repository\JavaLearning\src" />
       <recent name="D:\github repository\branch_wangchang\JavaLearning\src\Java\method\equals" />
     </key>
   </component>
@@ -91,13 +91,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Client">
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java.spring.AOP.Client" />
+  <component name="RunManager" selected="Application.Demo5">
+    <configuration name="ConsoleRead" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaBase.io.ConsoleRead" />
       <module name="JavaLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java.spring.AOP.*" />
+          <option name="PATTERN" value="JavaBase.io.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DaytimeObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java.socket.client.DaytimeObject" />
+    <configuration name="Demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaBase.io.Demo2" />
       <module name="JavaLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java.socket.client.*" />
+          <option name="PATTERN" value="JavaBase.io.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkStatusCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java.socket.client.LinkStatusCheck" />
+    <configuration name="Demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaBase.Java8.Demo2" />
       <module name="JavaLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java.socket.client.*" />
+          <option name="PATTERN" value="JavaBase.Java8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RestClientFreeGeoIp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java.socket.client.RestClientFreeGeoIp" />
+    <configuration name="Demo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaBase.io.Demo3" />
       <module name="JavaLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java.socket.client.*" />
+          <option name="PATTERN" value="JavaBase.io.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,12 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="URIDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java.socket.client.URIDemo" />
+    <configuration name="Demo5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaBase.Java8.Demo5" />
       <module name="JavaLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java.socket.client.*" />
+          <option name="PATTERN" value="JavaBase.Java8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,13 +157,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.ConsoleRead" />
+      <item itemvalue="Application.Demo2" />
+      <item itemvalue="Application.Demo3" />
+      <item itemvalue="Application.Demo5" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Client" />
-        <item itemvalue="Application.LinkStatusCheck" />
-        <item itemvalue="Application.RestClientFreeGeoIp" />
-        <item itemvalue="Application.URIDemo" />
-        <item itemvalue="Application.DaytimeObject" />
+        <item itemvalue="Application.Demo5" />
+        <item itemvalue="Application.Demo3" />
+        <item itemvalue="Application.Demo2" />
+        <item itemvalue="Application.ConsoleRead" />
       </list>
     </recent_temporary>
   </component>
@@ -181,7 +186,15 @@
       <workItem from="1571225310809" duration="6275000" />
       <workItem from="1571361415693" duration="9434000" />
       <workItem from="1571498609000" duration="19595000" />
-      <workItem from="1575273022247" duration="21809000" />
+      <workItem from="1575273022247" duration="44678000" />
+      <workItem from="1575868967292" duration="24934000" />
+      <workItem from="1575949078728" duration="5836000" />
+      <workItem from="1575979818555" duration="1969000" />
+      <workItem from="1575983211294" duration="88711000" />
+      <workItem from="1577115581146" duration="4051000" />
+      <workItem from="1577416532135" duration="688000" />
+      <workItem from="1578672880478" duration="2651000" />
+      <workItem from="1578796994379" duration="5852000" />
     </task>
     <servers />
   </component>
@@ -208,34 +221,84 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Java/method/equals/Son.java</url>
+          <url>file://$PROJECT_DIR$/src/java/JavaBase/method/equals/Son.java</url>
           <line>19</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Java/socket/client/EchoClientOneLine.java</url>
+          <url>file://$PROJECT_DIR$/src/java/JavaBase/socket/client/EchoClientOneLine.java</url>
           <line>19</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Java/socket/client/DaytimeObject.java</url>
+          <url>file://$PROJECT_DIR$/src/java/JavaBase/socket/client/DaytimeObject.java</url>
           <line>30</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Java/socket/client/URIDemo.java</url>
+          <url>file://$PROJECT_DIR$/src/java/JavaBase/socket/client/URIDemo.java</url>
           <line>25</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Java/socket/client/LinkStatusCheck.java</url>
+          <url>file://$PROJECT_DIR$/src/java/JavaBase/socket/client/LinkStatusCheck.java</url>
           <line>33</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Java/socket/client/LinkStatusCheck.java</url>
+          <url>file://$PROJECT_DIR$/src/java/JavaBase/socket/client/LinkStatusCheck.java</url>
           <line>29</line>
           <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java/JavaBase/socket/client/ConnectSimple.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java/JavaBase/socket/server/WebServer.java</url>
+          <line>76</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java/JavaBase/socket/server/WebServer.java</url>
+          <line>97</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java/JavaBase/socket/server/ChatServer.java</url>
+          <line>147</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java/JavaBase/otherLanguage/RenjinScripting.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java/JavaBase/otherLanguage/RenjinScripting.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java/JavaBase/Reflect/ClassesInPackage.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java/JavaBase/Reflect/ClassesInPackage.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java/JavaBase/io/Demo1.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java/JavaBase/Java8/Demo5.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="28" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
